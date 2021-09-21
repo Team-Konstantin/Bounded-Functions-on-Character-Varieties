@@ -1,5 +1,12 @@
 #prime,degree-of-extension,N,(ram for totally ramified, unram for unramified)
+<<<<<<< HEAD
 2,2,270,ram
 3,2,200,ram
 5,2,200,ram
 7,2,200,ram
+=======
+2,2,400,ram
+3,2,300,ram
+5,2,200,ram
+7,2,100,ram
+>>>>>>> d3d34c3c2efa962e39995f8bba55cc3a9a0fa900
