@@ -1,0 +1,4 @@
+#prime,degree-of-extension,N,(ram for totally ramified, unram for unramified)
+2,2,270,ram
+3,2,200,ram
+5,2,100,ram
